@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on Northeast Corn Porridge</title>
+    <link>https://northeastcornporridge.github.io/tags/tech/</link>
+    <description>Recent content in tech on Northeast Corn Porridge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Aug 2020 13:38:21 +1000</lastBuildDate><atom:link href="https://northeastcornporridge.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Set up Envoy dev story on Mac</title>
+      <link>https://northeastcornporridge.github.io/posts/set_up_envoy_dev_story_on_mac/</link>
+      <pubDate>Thu, 13 Aug 2020 13:38:21 +1000</pubDate>
+      
+      <guid>https://northeastcornporridge.github.io/posts/set_up_envoy_dev_story_on_mac/</guid>
+      <description>This is just a brief instruction. I don&amp;rsquo;t have much experience on Envoy development. I will add more detailed things in the future when I understand more about Envoy dev story.
+Set up Envoy dependencies Even though you can follow the instructions on README, you can run this script to install dependencies and run this script to build envoy-static.
+VSCode Code navigation  Trial #1: Default Microsoft C/C++ plugin works okay but misses many library references.</description>
+    </item>
+    
+  </channel>
+</rss>
